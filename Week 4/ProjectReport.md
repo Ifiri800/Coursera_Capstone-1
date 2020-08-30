@@ -18,7 +18,7 @@ We would like to predict an apartment's rental price in Toronto by knowing the b
 [To Top](#table-of-contents)
 
 ## 2 - Data Description
-The data used will be a combination of datasets, and data from API calls. The primary dataset is compromised of Toronto apartment rental prices for 2018. The dataset contains the price, address, latitude, longitude, and rooms of 1124 apartments for rent in the Toronto area. This dataset is publicly available on Kaggle[<sup>1</sup>](#7---references). The Latitude, Longitude values in the dataset will be used with the Foursquare API to find the businesses nearby each apartment.
+The data used will be a combination of datasets, and data from API calls. The primary dataset is compromised of Toronto apartment rental prices. The dataset contains the price, address, latitude, longitude, and rooms of a number apartments for rent in the Toronto area. This dataset is publicly available on Kaggle[<sup>1</sup>](#7---references). The Latitude, Longitude values in the dataset will be used with the Foursquare API to find the businesses nearby each apartment.
 
 [To Top](#table-of-contents)
 
