@@ -1,5 +1,5 @@
 # Using Nearby Businesses to Predict Apartment Rental Prices in Toronto
-### by Sesshagiri Sriram 
+### by Seshagiri Sriram 
 
 
 ## Table of Contents
