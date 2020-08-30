@@ -28,16 +28,24 @@ Methodology section which represents the main component of the report where you 
 ### 3.1 - Data Cleansing
 TO BE DONE 
 
+[To Top](#table-of-contents)
+
 ### 3.2 - Exploratory Analysis
 TO BE DONE 
+
+[To Top](#table-of-contents)
 
 
 ### 3.3 Use of Machine Learning
 TO BE DONE 
 
+[To Top](#table-of-contents)
+
 ## 4 - Results
 
 TO BE DONE 
+
+[To Top](#table-of-contents)
 
 
 ## 5 - Discussion 
@@ -55,6 +63,6 @@ TO BE DONE
 
 1. Toronto apartment prices dataset: *https://www.kaggle.com/rajacsp/toronto-apartment-price*
 
-2. Toronto borough, and neighborhood for each postal code: <TO DO: ADD PYNB FOR SAME>>
+2. Toronto borough, and neighborhood for each postal code:  *TO DO: ADD PYNB FOR SAME
 
 [To Top](#table-of-contents)
