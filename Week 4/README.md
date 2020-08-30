@@ -55,6 +55,6 @@ TO BE DONE
 
 1. Toronto apartment prices dataset: *https://www.kaggle.com/rajacsp/toronto-apartment-price*
 
-2. Toronto borough, and neighborhood for each postal code: [Clustering and Segmenting Toronto Neighborhoods.ipynb](./Clustering%20and%20Segmenting%20Toronto%20Neighborhoods.ipynb)
+2. Toronto borough, and neighborhood for each postal code: <TO DO: ADD PYNB FOR SAME>>
 
 [To Top](#table-of-contents)
