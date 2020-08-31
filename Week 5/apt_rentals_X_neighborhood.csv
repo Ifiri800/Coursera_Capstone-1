@@ -1,0 +1,765 @@
+,Bedroom,Bathroom,Den,Address,Lat,Long,Price,Postal Code,Neighborhood,Borough
+0,1,1.0,1,M5V,43.6430505,-79.3916429,2150.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+1,1,1.0,0,M5V,43.6409179,-79.3939821,1900.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+2,1,1.0,0,M5V,43.6413078,-79.4000933,1900.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+3,1,1.0,1,M5V,43.6400685,-79.39996040000001,2400.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+4,1,1.0,0,M5V,43.647627299999996,-79.39040809999999,2650.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+5,2,2.0,0,M5V,43.6394055,-79.3932324,3150.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+6,1,1.0,0,M5V,43.648005299999994,-79.3968338,2500.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+7,1,1.0,0,M5V,43.6489727,-79.3872946,2299.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+8,2,2.0,0,M5V,43.647870000000005,-79.391138,2350.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+9,1,1.0,1,M5V,43.6394055,-79.3932324,2424.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+10,1,1.0,0,M5V,43.6489727,-79.3872946,2299.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+11,1,1.0,0,M5V,43.6489001,-79.392205,2550.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+12,2,2.0,0,M5V,43.6394055,-79.3932324,3150.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+13,1,2.0,1,M5V,43.6402232,-79.395951,2500.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+14,2,2.0,0,M5V,43.643207700000005,-79.39211,3200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+15,2,2.0,0,M5V,43.647870000000005,-79.391138,2350.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+16,1,1.0,1,M5V,43.6430505,-79.3916429,2150.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+17,1,1.0,0,M5V,43.6489727,-79.3872946,2299.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+18,1,1.0,0,M5V,43.6469441,-79.3923973,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+19,1,1.0,0,M5V,43.6489727,-79.3872946,2299.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+20,2,2.0,0,M5V,43.6394055,-79.3932324,3150.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+21,1,1.0,1,M5V,43.6430505,-79.3916429,2150.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+22,1,1.0,0,M5V,43.640402,-79.39714670000001,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+23,1,1.0,0,M5V,43.647870000000005,-79.391138,1850.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+24,1,1.0,1,M5V,43.6385213,-79.39946379999999,2300.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+25,1,1.0,0,M5V,43.6489727,-79.3872946,2299.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+26,1,1.0,0,M5V,43.6489001,-79.392205,2550.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+27,1,1.0,1,M5V,43.6400685,-79.39996040000001,2400.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+28,1,1.0,0,M5V,43.6489727,-79.3872946,2299.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+29,2,2.0,0,M5V,43.647870000000005,-79.391138,2350.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+30,1,1.0,1,M5V,43.6394055,-79.3932324,2424.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+31,1,1.0,0,M5V,43.6489727,-79.3872946,2299.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+32,1,1.0,0,M5V,43.6489001,-79.392205,2550.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+33,2,2.0,0,M5V,43.6394055,-79.3932324,3150.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+34,1,2.0,1,M5V,43.6402232,-79.395951,2500.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+35,2,2.0,0,M5V,43.643207700000005,-79.39211,3200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+36,1,1.0,1,M5V,43.6430505,-79.3916429,2150.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+37,1,1.0,0,M5V,43.6469441,-79.3923973,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+38,1,1.0,0,M5V,43.640402,-79.39714670000001,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+39,1,1.0,0,M5V,43.647870000000005,-79.391138,1850.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+40,1,1.0,1,M5V,43.6385213,-79.39946379999999,2300.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+41,1,1.0,1,M5V,43.6400685,-79.39996040000001,2400.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+42,1,1.0,0,M5V,43.6469441,-79.3923973,1850.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+43,3,2.0,0,M5V,43.6467641,-79.3922208,3200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+44,1,1.0,1,M5V,43.6406042,-79.3971881,1750.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+45,2,1.0,0,M5V,43.6383175,-79.3977947,3200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+46,2,1.0,0,M5V,43.6469441,-79.3923973,2500.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+47,1,1.0,0,M5V,43.6469441,-79.3923973,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+48,1,1.0,0,M5V,43.6367593,-79.3978503,1900.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+49,1,1.0,0,M5V,43.647632,-79.39296259999999,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+50,1,1.0,1,M5V,43.6394055,-79.3932324,2424.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+51,2,2.0,0,M5V,43.647870000000005,-79.391138,2350.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+52,1,2.0,1,M5V,43.6402232,-79.395951,2500.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+53,1,1.0,1,M5V,43.6400685,-79.39996040000001,2400.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+54,2,1.0,0,M5V,43.645641,-79.39295340000001,1900.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+55,1,1.0,0,M5V,43.647627299999996,-79.39040809999999,2650.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+56,1,1.0,0,M5V,43.640402,-79.39714670000001,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+57,1,1.0,0,M5V,43.647870000000005,-79.391138,1850.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+58,1,1.0,1,M5V,43.6385213,-79.39946379999999,2300.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+59,1,1.0,1,M5V,43.6400685,-79.39996040000001,2400.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+60,1,1.0,0,M5V,43.6469441,-79.3923973,1850.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+61,3,2.0,0,M5V,43.6467641,-79.3922208,3200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+62,2,1.0,0,M5V,43.6383175,-79.3977947,3200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+63,2,1.0,0,M5V,43.6469441,-79.3923973,2500.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+64,1,1.0,0,M5V,43.6469441,-79.3923973,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+65,1,1.0,1,M5V,43.6430505,-79.3916429,2150.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+66,1,1.0,0,M5V,43.6367593,-79.3978503,1900.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+67,1,1.0,1,M5V,43.640863700000004,-79.39573929999999,2350.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+68,3,2.0,0,M5V,43.6387842,-79.3988635,3500.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+69,1,1.0,1,M5V,43.6476244,-79.3968608,2700.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+70,1,1.0,0,M5V,43.640402,-79.39714670000001,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+71,1,1.0,0,M5V,43.6434855,-79.39230450000001,2300.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+72,1,1.0,0,M5V,43.6469441,-79.3923973,2090.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+73,1,1.0,0,M5V,43.6469441,-79.3923973,2150.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+74,1,1.0,0,M5V,43.6489727,-79.3872946,2299.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+75,1,1.0,0,M5V,43.647627299999996,-79.39040809999999,2650.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+76,1,1.0,1,M5V,43.6400685,-79.39996040000001,2400.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+77,1,1.0,0,M5V,43.647632,-79.39296259999999,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+78,1,1.0,0,M5V,43.6489001,-79.392205,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+79,2,2.0,0,M5V,43.647870000000005,-79.391138,2350.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+80,1,1.0,0,M5V,43.6439201,-79.3994776,2700.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+81,1,1.0,1,M5V,43.6397355,-79.3904175,2600.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+82,1,2.0,0,M5V,43.6453398,-79.4021851,2650.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+83,3,2.0,0,M5V,43.650340299999996,-79.3876465,3900.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+84,1,1.0,0,M5V,43.6434855,-79.39230450000001,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+85,1,1.0,0,M5V,43.6469441,-79.3923973,2050.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+86,1,1.0,0,M5V,43.6447693,-79.3970587,1600.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+87,2,2.0,0,M5V,43.6460058,-79.38990849999999,3100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+88,1,1.0,1,M5V,43.64140820000001,-79.3912531,2950.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+89,1,1.0,0,M5V,43.64514929999999,-79.39081329999999,1300.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+90,2,1.0,0,M5V,43.645641,-79.39295340000001,1900.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+91,1,2.0,0,M5V,43.640402,-79.39714670000001,3600.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+92,2,2.0,0,M5V,43.6487831,-79.3880423,4050.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+93,2,2.0,0,M5V,43.6487831,-79.3880423,4100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+94,1,1.0,1,M5V,43.6469126,-79.3902415,2300.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+95,2,1.5,0,M5V,43.6421316,-79.4013687,2300.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+96,1,1.0,0,M5V,43.6454236,-79.3962213,2200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+97,1,1.0,0,M5V,43.6361646,-79.4033004,2200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+98,2,1.0,0,M5V,43.6412101,-79.3938921,2600.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+99,1,1.0,0,M5V,43.6452974,-79.3923967,4700.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+100,1,1.0,0,M5V,43.6469441,-79.3923973,2050.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+101,2,2.0,0,M5V,43.6344756,-79.4015886,3300.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+102,1,1.0,0,M5V,43.644628600000004,-79.3929331,2300.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+103,1,1.0,0,M5V,43.6394055,-79.3932324,2300.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+104,1,1.0,1,M5V,43.6405271,-79.397104,2350.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+105,1,1.0,0,M5V,43.6413078,-79.4000933,850.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+106,2,2.0,0,M5V,43.6366681,-79.40044509999998,2600.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+107,1,1.0,0,M5V,43.6394055,-79.3932324,2000.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+108,1,1.0,0,M5V,43.6387842,-79.3988635,2600.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+109,2,2.0,0,M5V,43.6467641,-79.3922208,2500.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+110,1,1.0,1,M5V,43.6464345,-79.3918689,2450.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+111,1,1.0,0,M5V,43.6464345,-79.3918689,2450.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+112,1,1.0,0,M5V,43.644460200000005,-79.4024689,2200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+113,2,2.0,0,M5V,43.6487831,-79.3880423,4000.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+114,1,1.0,1,M5V,43.6469441,-79.3923973,2300.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+115,1,1.0,0,M5V,43.6387842,-79.3988635,2600.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+116,1,1.0,0,M5V,43.6393466,-79.3997415,2150.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+117,1,1.0,1,M5V,43.641365500000006,-79.3914457,2300.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+118,1,1.0,0,M5V,43.6375235,-79.40087700000001,2400.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+119,1,1.0,0,M5V,43.645396000000005,-79.3942439,1900.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+120,2,2.0,0,M5V,43.645396000000005,-79.3942439,2500.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+121,1,1.0,0,M5V,43.6475126,-79.3927022,1600.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+122,1,1.0,0,M5V,43.6351036,-79.40101329999999,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+123,1,1.0,0,M5V,43.6469441,-79.3923973,2200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+124,1,1.0,0,M5V,43.6460058,-79.38990849999999,1900.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+125,1,1.0,0,M5V,43.6487831,-79.3880423,2250.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+126,1,2.0,0,M5V,43.6402232,-79.395951,2500.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+127,1,1.0,0,M5V,43.6489727,-79.3872946,2350.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+128,1,1.0,1,M5V,43.639096200000004,-79.3864748,2600.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+129,2,2.0,0,M5V,43.6375235,-79.40087700000001,3500.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+130,1,1.0,0,M5V,43.653226000000004,-79.3831843,2000.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+131,1,1.0,1,M5V,43.647627299999996,-79.39040809999999,2350.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+132,1,1.0,0,M5V,43.6374082,-79.40664609999999,1900.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+133,1,1.0,1,M5V,43.641365500000006,-79.3914457,2700.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+134,1,1.0,1,M5V,43.6403804,-79.3973372,2150.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+135,1,1.0,1,M5V,43.647870000000005,-79.391138,3300.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+136,2,2.0,0,M5V,43.643987700000004,-79.4014038,2800.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+137,1,1.0,1,M5V,43.6469441,-79.3923973,2350.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+138,1,1.0,0,M5V,43.64595429999999,-79.4039853,1800.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+139,2,1.0,0,M5V,43.6400685,-79.39996040000001,2800.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+140,1,1.0,0,M5V,43.645050299999994,-79.39134109999999,3000.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+141,1,1.0,0,M5V,43.64393870000001,-79.4014775,1900.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+142,1,1.0,1,M5V,43.6469441,-79.3923973,2400.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+143,1,1.0,0,M5V,43.6402232,-79.395951,2200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+144,2,2.0,0,M5V,43.6404783,-79.3949699,3130.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+145,1,1.0,0,M5V,43.6475126,-79.3927022,3750.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+146,1,1.0,1,M5V,43.6404402,-79.3918535,2550.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+147,2,1.0,0,M5V,43.6430555,-79.3961791,1700.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+148,2,2.0,0,M5V,43.6363456,-79.404535,2800.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+149,1,1.0,0,M5V,43.643845899999995,-79.391824,2400.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+150,1,1.0,0,M5V,43.643845899999995,-79.391824,2400.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+151,1,1.5,1,M5V,43.6449299,-79.3921465,2650.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+152,1,1.0,0,M5V,43.6410109,-79.4012807,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+153,1,1.0,0,M5V,43.6407261,-79.3955671,1950.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+154,1,1.0,0,M5V,43.6489727,-79.3872946,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+155,2,2.0,0,M5V,43.64618839999999,-79.3972358,3950.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+156,1,1.0,0,M5V,43.6489727,-79.3872946,2150.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+157,1,1.0,0,M5V,43.647225899999995,-79.3911003,2500.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+158,1,1.0,0,M5V,43.647870000000005,-79.391138,2200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+159,2,2.0,0,M5V,43.6387842,-79.3988635,3200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+160,1,1.0,1,M5V,43.6409179,-79.3939821,2200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+161,1,1.0,0,M5V,43.6397355,-79.3904175,2200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+162,2,2.0,0,M5V,43.6460058,-79.38990849999999,3050.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+163,2,1.5,0,M5V,43.6476349,-79.39248359999999,1200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+164,1,1.0,1,M5V,43.6469441,-79.3923973,2250.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+165,1,1.0,1,M5V,43.6469441,-79.3923973,2250.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+166,1,1.0,0,M5V,43.63859229999999,-79.40099479999999,1900.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+167,1,1.0,0,M5V,43.6385213,-79.39946379999999,2450.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+168,1,1.0,1,M5V,43.6465174,-79.3872066,3600.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+169,1,1.0,0,M5V,43.6490235,-79.3884001,2200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+170,1,1.0,0,M5V,43.6364097,-79.40200340000001,1800.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+171,1,1.0,0,M5V,43.641869899999996,-79.38984570000001,1350.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+172,1,1.0,0,M5V,43.6462197,-79.3981256,2175.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+173,2,2.0,0,M5V,43.6490235,-79.3884001,4500.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+174,1,1.0,0,M5V,43.6494054,-79.3927116,2000.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+175,1,1.0,0,M5V,43.653226000000004,-79.3831843,2175.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+176,1,1.0,0,M5V,43.6409222,-79.39398299999999,1900.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+177,1,1.5,1,M5V,43.6375098,-79.39777740000001,2400.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+178,1,1.0,1,M5V,43.647627299999996,-79.39040809999999,2600.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+179,1,1.0,0,M5V,43.64187379999999,-79.4103246,2100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+180,1,1.0,0,M5V,43.6489727,-79.3872946,2200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+181,3,3.0,0,M5V,43.6425685,-79.39345959999999,4900.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+182,1,1.0,0,M5V,43.6468075,-79.40279790000001,2150.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+183,2,1.0,0,M5V,43.6289467,-79.3944199,3200.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+184,1,1.0,1,M5V,43.6402671,-79.3910061,2500.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+185,1,1.0,0,M5V,43.645594700000004,-79.38606300000001,2000.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+186,1,1.0,0,M5V,43.6464336,-79.39780640000001,2500.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+187,1,1.0,1,M5V,43.640863700000004,-79.39573929999999,2350.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+188,1,1.0,0,M5V,43.6384219,-79.39759559999999,2000.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+189,2,2.0,0,M5V,43.6476244,-79.3968608,2850.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+190,1,1.0,0,M5V,43.645641,-79.39295340000001,2400.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+191,1,1.5,1,M5V,43.6381439,-79.39751,2400.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+192,1,1.0,0,M5V,43.6465801,-79.3998612,1199.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+193,2,2.0,0,M5V,43.6375235,-79.40087700000001,3100.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+194,2,2.0,0,M5V,43.6476244,-79.3968608,3000.0,M5V,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",Downtown Toronto
+195,1,1.0,0,M5B,43.6606054,-79.37863540000001,1950.0,M5B,"Ryerson,Garden District",Downtown Toronto
+196,1,1.0,0,M5B,43.6606054,-79.37863540000001,1950.0,M5B,"Ryerson,Garden District",Downtown Toronto
+197,1,1.0,0,M5B,43.6606054,-79.37863540000001,1950.0,M5B,"Ryerson,Garden District",Downtown Toronto
+198,1,1.0,0,M5B,43.6606054,-79.37863540000001,1950.0,M5B,"Ryerson,Garden District",Downtown Toronto
+199,2,2.0,0,M5B,43.6548421,-79.37920150000001,3099.0,M5B,"Ryerson,Garden District",Downtown Toronto
+200,1,1.0,0,M5B,43.660846,-79.3787556,2250.0,M5B,"Ryerson,Garden District",Downtown Toronto
+201,2,2.0,0,M5B,43.6606054,-79.37863540000001,2800.0,M5B,"Ryerson,Garden District",Downtown Toronto
+202,1,1.0,0,M5B,43.6606054,-79.37863540000001,2000.0,M5B,"Ryerson,Garden District",Downtown Toronto
+203,1,1.0,0,M5B,43.6606054,-79.37863540000001,1950.0,M5B,"Ryerson,Garden District",Downtown Toronto
+204,2,2.0,0,M5B,43.6548421,-79.37920150000001,3099.0,M5B,"Ryerson,Garden District",Downtown Toronto
+205,1,1.0,0,M5B,43.660846,-79.3787556,2250.0,M5B,"Ryerson,Garden District",Downtown Toronto
+206,2,2.0,0,M5B,43.6606054,-79.37863540000001,2800.0,M5B,"Ryerson,Garden District",Downtown Toronto
+207,1,1.0,0,M5B,43.6606054,-79.37863540000001,2000.0,M5B,"Ryerson,Garden District",Downtown Toronto
+208,1,1.0,0,M5B,43.6606054,-79.37863540000001,1950.0,M5B,"Ryerson,Garden District",Downtown Toronto
+209,1,1.0,0,M5B,43.660269,-79.38280019999999,2450.0,M5B,"Ryerson,Garden District",Downtown Toronto
+210,2,2.0,0,M5B,43.660269,-79.38280019999999,3450.0,M5B,"Ryerson,Garden District",Downtown Toronto
+211,2,2.0,0,M5B,43.656733200000005,-79.37515400000001,2900.0,M5B,"Ryerson,Garden District",Downtown Toronto
+212,1,1.0,0,M5B,43.6606054,-79.37863540000001,1850.0,M5B,"Ryerson,Garden District",Downtown Toronto
+213,1,1.0,0,M5B,43.6606054,-79.37863540000001,1950.0,M5B,"Ryerson,Garden District",Downtown Toronto
+214,1,1.0,0,M5B,43.6606054,-79.37863540000001,1950.0,M5B,"Ryerson,Garden District",Downtown Toronto
+215,2,2.0,0,M5B,43.6548421,-79.37920150000001,3099.0,M5B,"Ryerson,Garden District",Downtown Toronto
+216,1,1.0,0,M5B,43.660846,-79.3787556,2250.0,M5B,"Ryerson,Garden District",Downtown Toronto
+217,2,2.0,0,M5B,43.6606054,-79.37863540000001,2800.0,M5B,"Ryerson,Garden District",Downtown Toronto
+218,1,1.0,0,M5B,43.6606054,-79.37863540000001,2000.0,M5B,"Ryerson,Garden District",Downtown Toronto
+219,2,2.0,0,M5B,43.656733200000005,-79.37515400000001,2900.0,M5B,"Ryerson,Garden District",Downtown Toronto
+220,1,1.0,0,M5B,43.6606054,-79.37863540000001,1850.0,M5B,"Ryerson,Garden District",Downtown Toronto
+221,1,1.0,0,M5B,43.6606054,-79.37863540000001,1950.0,M5B,"Ryerson,Garden District",Downtown Toronto
+222,1,1.5,1,M5B,43.6606054,-79.37863540000001,2300.0,M5B,"Ryerson,Garden District",Downtown Toronto
+223,1,1.0,0,M5B,43.660846,-79.3787556,1850.0,M5B,"Ryerson,Garden District",Downtown Toronto
+224,2,2.0,0,M5B,43.661198,-79.3816644,2800.0,M5B,"Ryerson,Garden District",Downtown Toronto
+225,1,1.0,0,M5B,43.661198,-79.3816644,2000.0,M5B,"Ryerson,Garden District",Downtown Toronto
+226,1,1.0,0,M5B,43.6598307,-79.3805207,2300.0,M5B,"Ryerson,Garden District",Downtown Toronto
+227,1,1.0,0,M5B,43.6621286,-79.37695759999998,1305.0,M5B,"Ryerson,Garden District",Downtown Toronto
+228,1,1.0,0,M5B,43.6606054,-79.37863540000001,1950.0,M5B,"Ryerson,Garden District",Downtown Toronto
+229,2,2.0,0,M5B,43.6619074,-79.3782085,4000.0,M5B,"Ryerson,Garden District",Downtown Toronto
+230,1,1.0,0,M5B,43.660456599999996,-79.37849720000001,2000.0,M5B,"Ryerson,Garden District",Downtown Toronto
+231,3,2.0,0,M5B,43.6606054,-79.37863540000001,3200.0,M5B,"Ryerson,Garden District",Downtown Toronto
+232,2,1.0,0,M5B,43.66053970000001,-79.37866170000001,2800.0,M5B,"Ryerson,Garden District",Downtown Toronto
+233,2,1.0,0,M5B,43.6578373,-79.38060870000001,1200.0,M5B,"Ryerson,Garden District",Downtown Toronto
+234,1,1.0,0,M5B,43.654393799999994,-79.3759018,1930.0,M5B,"Ryerson,Garden District",Downtown Toronto
+235,1,1.0,0,M5B,43.6598307,-79.3805207,1700.0,M5B,"Ryerson,Garden District",Downtown Toronto
+236,2,2.0,0,M5B,43.655111,-79.3756429,2990.0,M5B,"Ryerson,Garden District",Downtown Toronto
+237,1,1.0,0,M5B,43.6606054,-79.37863540000001,2250.0,M5B,"Ryerson,Garden District",Downtown Toronto
+238,1,1.0,0,M5B,43.6576911,-79.3801612,1800.0,M5B,"Ryerson,Garden District",Downtown Toronto
+239,3,1.0,0,M5B,43.6606054,-79.37863540000001,3200.0,M5B,"Ryerson,Garden District",Downtown Toronto
+240,2,1.0,0,M5B,43.66053970000001,-79.37866170000001,2700.0,M5B,"Ryerson,Garden District",Downtown Toronto
+241,1,1.0,0,M5B,43.659534,-79.3773535,2000.0,M5B,"Ryerson,Garden District",Downtown Toronto
+242,1,1.0,0,M5B,43.65470379999999,-79.3789125,1980.0,M5B,"Ryerson,Garden District",Downtown Toronto
+243,1,1.0,0,M5B,43.6578373,-79.38060870000001,800.0,M5B,"Ryerson,Garden District",Downtown Toronto
+244,1,1.0,0,M5B,43.6546239,-79.3790756,2250.0,M5B,"Ryerson,Garden District",Downtown Toronto
+245,1,1.0,0,M5B,43.6546239,-79.3790756,2250.0,M5B,"Ryerson,Garden District",Downtown Toronto
+246,1,1.0,0,M5B,43.6544596,-79.37581379999999,1700.0,M5B,"Ryerson,Garden District",Downtown Toronto
+247,1,1.0,0,M5B,43.660846,-79.3787556,1800.0,M5B,"Ryerson,Garden District",Downtown Toronto
+248,3,2.0,0,M5B,43.6616535,-79.37755820000001,3999.0,M5B,"Ryerson,Garden District",Downtown Toronto
+249,2,2.0,0,M5B,43.6611027,-79.3821061,2800.0,M5B,"Ryerson,Garden District",Downtown Toronto
+250,1,1.5,1,M5B,43.66053970000001,-79.37866170000001,2300.0,M5B,"Ryerson,Garden District",Downtown Toronto
+251,1,1.0,0,M5B,43.654706899999994,-79.379245,1650.0,M5B,"Ryerson,Garden District",Downtown Toronto
+252,2,1.0,0,M5B,43.653636,-79.38087259999999,2200.0,M5B,"Ryerson,Garden District",Downtown Toronto
+253,2,2.0,0,M5J,43.6410868,-79.3814048,2900.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+254,1,1.0,1,M5J,43.6408157,-79.38175229999999,2350.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+255,1,1.0,1,M5J,43.6418726,-79.3819064,2400.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+256,2,2.0,0,M5J,43.6423144,-79.3812291,3100.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+257,1,1.0,0,M5J,43.6410868,-79.3814048,2200.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+258,1,1.0,0,M5J,43.6410868,-79.3814048,2200.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+259,2,2.0,0,M5J,43.6410868,-79.3814048,2900.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+260,2,2.0,0,M5J,43.6410868,-79.3814048,2900.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+261,2,2.0,0,M5J,43.6410868,-79.3814048,2900.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+262,1,1.0,0,M5J,43.6418064,-79.3789807,1830.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+263,1,1.0,1,M5J,43.6426791,-79.3769938,2275.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+264,1,1.0,0,M5J,43.6419081,-79.38177979999999,2000.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+265,2,2.0,0,M5J,43.6410868,-79.3814048,2900.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+266,1,1.0,0,M5J,43.6410868,-79.3814048,2200.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+267,2,1.0,0,M5J,43.6408157,-79.38175229999999,1500.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+268,1,1.0,0,M5J,43.6410868,-79.3814048,2200.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+269,1,1.0,1,M5J,43.6418726,-79.3819064,2400.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+270,1,1.0,0,M5J,43.6410868,-79.3814048,2200.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+271,2,2.0,0,M5J,43.6410868,-79.3814048,2900.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+272,2,2.0,0,M5J,43.6410868,-79.3814048,2900.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+273,1,1.0,0,M5J,43.6418064,-79.3789807,1830.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+274,1,1.0,1,M5J,43.6426791,-79.3769938,2275.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+275,1,1.0,0,M5J,43.6419081,-79.38177979999999,2000.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+276,1,1.0,0,M5J,43.6410868,-79.3814048,2200.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+277,2,1.0,0,M5J,43.6408157,-79.38175229999999,1500.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+278,1,1.0,1,M5J,43.6418726,-79.3819064,2400.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+279,1,1.0,0,M5J,43.64005770000001,-79.379201,2800.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+280,2,2.0,0,M5J,43.6421671,-79.3819283,2800.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+281,1,1.0,0,M5J,43.6418064,-79.3789807,1830.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+282,1,1.0,1,M5J,43.6426791,-79.3769938,2275.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+283,1,1.0,0,M5J,43.6419081,-79.38177979999999,2000.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+284,2,1.0,0,M5J,43.6408157,-79.38175229999999,1500.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+285,1,1.0,0,M5J,43.6410868,-79.3814048,2200.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+286,1,1.0,1,M5J,43.6418726,-79.3819064,2400.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+287,2,2.0,0,M5J,43.6410868,-79.3814048,2900.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+288,1,1.0,0,M5J,43.64005770000001,-79.379201,2800.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+289,2,2.0,0,M5J,43.6456126,-79.38258540000001,3200.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+290,1,1.0,1,M5J,43.6418891,-79.3837936,2400.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+291,1,1.0,0,M5J,43.6417851,-79.3790058,2600.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+292,2,1.0,0,M5J,43.6416068,-79.3822802,1180.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+293,1,1.0,0,M5J,43.6415846,-79.3826205,2650.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+294,2,2.0,0,M5J,43.6410868,-79.3814048,2900.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+295,1,1.0,0,M5J,43.6410868,-79.3814048,2200.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+296,1,1.0,0,M5J,43.6419081,-79.38177979999999,2050.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+297,1,1.0,1,M5J,43.6406456,-79.380939,1830.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+298,1,1.0,0,M5J,43.642546200000005,-79.37726550000001,1600.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+299,1,1.0,0,M5J,43.6418726,-79.3819064,2450.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+300,1,1.0,0,M5J,43.643136600000005,-79.3805285,2200.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+301,2,2.0,0,M5J,43.642282,-79.38282650000001,3150.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+302,1,1.0,0,M5J,43.6426791,-79.3769938,1900.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+303,1,1.0,0,M5J,43.6418064,-79.3789807,2500.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+304,1,1.0,0,M5J,43.6397444,-79.3837757,2300.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+305,3,2.0,0,M5J,43.6415283,-79.3833016,4200.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+306,2,2.0,0,M5J,43.6421671,-79.3819283,2800.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+307,1,1.0,0,M5J,43.6418726,-79.3819064,2100.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+308,1,1.0,1,M5J,43.6415846,-79.3826205,2350.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+309,1,1.0,0,M5J,43.6418064,-79.3789807,2550.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+310,2,2.0,0,M5J,43.6415846,-79.3826205,3100.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+311,3,2.0,0,M5J,43.6419081,-79.38177979999999,3800.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+312,1,1.0,0,M5J,43.640024700000005,-79.3812245,2200.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+313,2,2.0,0,M5J,43.6406456,-79.380939,3200.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+314,1,1.0,1,M5J,43.6418726,-79.3819064,2300.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+315,2,2.0,0,M5J,43.6418064,-79.3789807,2950.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+316,1,1.0,0,M5J,43.6410868,-79.3814048,2150.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+317,1,1.0,1,M5J,43.6418064,-79.3789807,2600.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+318,1,1.0,0,M5J,43.6417851,-79.3790058,2300.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+319,1,1.0,0,M5J,43.6417851,-79.3790058,2550.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+320,1,1.0,0,M5J,43.6428849,-79.3806168,2300.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+321,2,2.0,0,M5J,43.642282,-79.38282650000001,3000.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+322,1,1.0,0,M5J,43.6455289,-79.3837757,1500.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+323,1,1.0,0,M5J,43.6419081,-79.38177979999999,2050.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+324,1,1.0,0,M5J,43.6418726,-79.3819064,3300.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+325,1,1.0,0,M5J,43.6418726,-79.3819064,3300.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+326,2,1.0,0,M5J,43.6419081,-79.38177979999999,2600.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+327,3,2.0,0,M5J,43.6419081,-79.38177979999999,4900.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+328,1,1.0,0,M5J,43.6415283,-79.3833016,2400.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+329,2,1.0,0,M5J,43.6417851,-79.3790058,2600.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+330,1,1.0,1,M5J,43.6417851,-79.3790058,2600.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+331,1,1.0,1,M5J,43.6410868,-79.3814048,2450.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+332,1,1.0,0,M5J,43.639755799999996,-79.3772708,2400.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+333,2,2.0,0,M5J,43.6410868,-79.3814048,3150.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+334,1,1.0,0,M5J,43.6418064,-79.3789807,2300.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+335,1,1.0,0,M5J,43.6418064,-79.3789807,1800.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+336,1,1.0,0,M5J,43.6465162,-79.3800596,1000.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+337,1,1.0,0,M5J,43.6428849,-79.3806168,2300.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+338,1,1.0,0,M5J,43.6406456,-79.380939,4000.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+339,2,1.5,0,M5J,43.6418726,-79.3819064,3200.0,M5J,"Harbourfront East,Toronto Islands,Union Station",Downtown Toronto
+340,1,1.0,0,M5T,43.6524873,-79.3896218,1800.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+341,1,1.0,0,M5T,43.6524873,-79.3896218,1800.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+342,1,1.0,0,M5T,43.6524873,-79.3896218,1800.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+343,1,1.0,0,M5T,43.6524873,-79.3896218,1800.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+344,1,1.0,0,M5T,43.6524873,-79.3896218,1800.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+345,1,1.0,0,M5T,43.6520426,-79.4022416,1300.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+346,1,1.0,0,M5T,43.6524873,-79.3896218,1800.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+347,1,1.0,0,M5T,43.6520426,-79.4022416,1300.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+348,1,1.0,0,M5T,43.654757700000005,-79.4008271,1750.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+349,1,1.0,0,M5T,43.6531643,-79.3900311,2480.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+350,1,1.0,0,M5T,43.6520426,-79.4022416,1300.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+351,1,1.0,0,M5T,43.6524873,-79.3896218,1800.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+352,1,1.0,0,M5T,43.654757700000005,-79.4008271,1750.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+353,1,1.0,0,M5T,43.6531643,-79.3900311,2099.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+354,1,1.0,0,M5T,43.6531643,-79.3900311,2480.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+355,1,1.0,1,M5T,43.6524331,-79.3888604,2400.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+356,1,1.0,1,M5T,43.6524331,-79.3888604,2545.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+357,1,1.0,0,M5T,43.651579299999995,-79.39008000000001,3750.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+358,1,1.0,0,M5T,43.651579299999995,-79.39008000000001,2500.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+359,1,1.0,0,M5T,43.651955,-79.38964770000001,2000.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+360,1,1.0,0,M5T,43.6569138,-79.3945078,1200.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+361,1,1.0,0,M5T,43.6544346,-79.3905934,2400.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+362,1,1.0,0,M5T,43.6575473,-79.40146429999999,2050.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+363,1,1.0,0,M5T,43.6554292,-79.4040073,1050.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+364,2,1.0,0,M5T,43.652519500000004,-79.3890778,3700.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+365,1,1.0,0,M5T,43.6554292,-79.4040073,1050.0,M5T,"Chinatown,Grange Park,Kensington Market",Downtown Toronto
+366,1,1.0,0,M6K,43.6348903,-79.4346541,1729.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+367,2,1.0,0,M6K,43.6371527,-79.4270923,2230.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+368,1,1.0,0,M6K,43.6371527,-79.4270923,1475.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+369,1,1.0,0,M6K,43.6371527,-79.4270923,1755.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+370,2,1.0,0,M6K,43.648857799999995,-79.4330072,1300.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+371,2,1.0,0,M6K,43.6403508,-79.42752159999999,2574.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+372,2,1.0,0,M6K,43.6403508,-79.42752159999999,2591.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+373,1,1.0,0,M6K,43.640845500000005,-79.4143193,2180.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+374,2,1.0,0,M6K,43.6371527,-79.4270923,2230.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+375,1,1.0,0,M6K,43.6371527,-79.4270923,1475.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+376,1,1.0,0,M6K,43.6371527,-79.4270923,1755.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+377,2,1.0,0,M6K,43.648857799999995,-79.4330072,1300.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+378,2,1.0,0,M6K,43.6403508,-79.42752159999999,2574.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+379,2,1.0,0,M6K,43.6403508,-79.42752159999999,2591.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+380,1,1.0,0,M6K,43.640845500000005,-79.4143193,2180.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+381,1,1.0,0,M6K,43.638700299999996,-79.4121833,2200.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+382,2,1.0,0,M6K,43.648857799999995,-79.4330072,1300.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+383,2,1.0,0,M6K,43.6403508,-79.42752159999999,2574.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+384,2,1.0,0,M6K,43.6403508,-79.42752159999999,2591.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+385,1,1.0,0,M6K,43.640845500000005,-79.4143193,2180.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+386,1,1.0,0,M6K,43.638700299999996,-79.4121833,2200.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+387,1,1.0,0,M6K,43.63982539999999,-79.4122306,2250.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+388,1,1.0,1,M6K,43.64027720000001,-79.4241261,2200.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+389,2,1.0,0,M6K,43.634354200000004,-79.4352696,1779.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+390,1,1.0,0,M6K,43.63828839999999,-79.4360532,1929.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+391,2,2.0,0,M6K,43.6356261,-79.4268735,2800.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+392,1,1.0,1,M6K,43.64027720000001,-79.4241261,2200.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+393,1,1.0,0,M6K,43.6398173,-79.43737970000001,1849.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+394,1,1.0,0,M6K,43.6391261,-79.41922209999998,1900.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+395,1,1.0,0,M6K,43.638306799999995,-79.4147858,2100.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+396,2,1.0,0,M6K,43.6474943,-79.43599499999999,2750.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+397,1,1.0,0,M6K,43.6398173,-79.43737970000001,1449.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+398,2,2.0,0,M6K,43.6367119,-79.4206384,2000.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+399,3,1.0,0,M6K,43.6403508,-79.42752159999999,2707.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+400,2,1.0,0,M6K,43.638399299999996,-79.41444820000001,2699.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+401,2,2.0,0,M6K,43.636538200000004,-79.41931,2000.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+402,1,1.0,0,M6K,43.6359631,-79.43574890000001,1595.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+403,1,1.0,1,M6K,43.641579,-79.4159028,2350.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+404,2,2.0,0,M6K,43.6374534,-79.41838659999999,2500.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+405,1,1.0,0,M6K,43.638763899999994,-79.4162418,2200.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+406,1,1.0,0,M6K,43.6396381,-79.41310370000001,1700.0,M6K,"Brockton,Exhibition Place,Parkdale Village",West Toronto
+407,1,1.0,0,M4X,43.6684679,-79.37483359999999,1750.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+408,2,1.0,0,M4X,43.6684679,-79.37483359999999,2000.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+409,1,1.0,0,M4X,43.664055700000006,-79.3737903,1785.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+410,1,1.0,0,M4X,43.664055700000006,-79.3737903,1535.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+411,1,1.0,0,M4X,43.6701586,-79.3756379,1700.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+412,1,1.0,0,M4X,43.6684679,-79.37483359999999,1400.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+413,1,1.0,0,M4X,43.6684679,-79.37483359999999,1700.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+414,1,1.0,0,M4X,43.664055700000006,-79.3737903,1785.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+415,1,1.0,0,M4X,43.664055700000006,-79.3737903,1535.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+416,1,1.0,0,M4X,43.6701586,-79.3756379,1700.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+417,1,1.0,0,M4X,43.6684679,-79.37483359999999,1400.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+418,1,1.0,0,M4X,43.6684679,-79.37483359999999,1700.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+419,2,2.0,0,M4X,43.66914570000001,-79.3759018,2000.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+420,1,1.0,0,M4X,43.66914570000001,-79.3759018,1650.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+421,1,1.0,0,M4X,43.66914570000001,-79.3759018,1550.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+422,1,1.0,0,M4X,43.6701586,-79.3756379,1700.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+423,1,1.0,0,M4X,43.6684679,-79.37483359999999,1400.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+424,1,1.0,0,M4X,43.6684679,-79.37483359999999,1700.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+425,1,1.0,0,M4X,43.6679021,-79.3756819,2600.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+426,1,1.0,0,M4X,43.6701586,-79.3756379,1450.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+427,3,3.0,0,M4X,43.6715933,-79.37508340000001,4500.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+428,1,1.0,0,M4X,43.6658208,-79.36988079999999,2100.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+429,1,1.0,0,M4X,43.672033299999995,-79.370728,2800.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+430,1,1.0,0,M4X,43.6699315,-79.3754627,2150.0,M4X,"Cabbagetown,St. James Town",Downtown Toronto
+431,1,1.0,0,M4Y,43.66472329999999,-79.38408359999998,2200.0,M4Y,Church and Wellesley,Downtown Toronto
+432,1,1.0,0,M4Y,43.670878,-79.3766958,1950.0,M4Y,Church and Wellesley,Downtown Toronto
+433,1,1.0,0,M4Y,43.664580799999996,-79.38229559999999,1815.0,M4Y,Church and Wellesley,Downtown Toronto
+434,1,1.0,0,M4Y,43.6655881,-79.383028,2000.0,M4Y,Church and Wellesley,Downtown Toronto
+435,2,2.0,0,M4Y,43.6655881,-79.383028,3700.0,M4Y,Church and Wellesley,Downtown Toronto
+436,1,1.0,0,M4Y,43.6695496,-79.3837757,2000.0,M4Y,Church and Wellesley,Downtown Toronto
+437,2,2.0,0,M4Y,43.666751500000004,-79.37623549999999,4100.0,M4Y,Church and Wellesley,Downtown Toronto
+438,1,1.0,0,M4Y,43.669450700000006,-79.38747049999999,2550.0,M4Y,Church and Wellesley,Downtown Toronto
+439,1,1.0,0,M4Y,43.670878,-79.3766958,1950.0,M4Y,Church and Wellesley,Downtown Toronto
+440,1,1.0,0,M4Y,43.664580799999996,-79.38229559999999,1815.0,M4Y,Church and Wellesley,Downtown Toronto
+441,1,1.0,0,M4Y,43.6655881,-79.383028,2000.0,M4Y,Church and Wellesley,Downtown Toronto
+442,2,2.0,0,M4Y,43.6655881,-79.383028,3700.0,M4Y,Church and Wellesley,Downtown Toronto
+443,1,1.0,0,M4Y,43.6695496,-79.3837757,2000.0,M4Y,Church and Wellesley,Downtown Toronto
+444,2,2.0,0,M4Y,43.666751500000004,-79.37623549999999,4100.0,M4Y,Church and Wellesley,Downtown Toronto
+445,1,1.0,0,M4Y,43.669450700000006,-79.38747049999999,2550.0,M4Y,Church and Wellesley,Downtown Toronto
+446,2,2.0,0,M4Y,43.6695928,-79.3805797,3575.0,M4Y,Church and Wellesley,Downtown Toronto
+447,1,1.0,0,M4Y,43.6660964,-79.3873217,2400.0,M4Y,Church and Wellesley,Downtown Toronto
+448,1,1.0,1,M4Y,43.6618956,-79.3857479,2500.0,M4Y,Church and Wellesley,Downtown Toronto
+449,1,1.0,0,M4Y,43.6655881,-79.383028,2000.0,M4Y,Church and Wellesley,Downtown Toronto
+450,2,2.0,0,M4Y,43.6655881,-79.383028,3700.0,M4Y,Church and Wellesley,Downtown Toronto
+451,1,1.0,0,M4Y,43.664843700000006,-79.3859297,2500.0,M4Y,Church and Wellesley,Downtown Toronto
+452,1,1.0,0,M4Y,43.6695496,-79.3837757,2000.0,M4Y,Church and Wellesley,Downtown Toronto
+453,1,1.0,0,M4Y,43.669450700000006,-79.38747049999999,2550.0,M4Y,Church and Wellesley,Downtown Toronto
+454,2,2.0,0,M4Y,43.6652335,-79.3842932,3300.0,M4Y,Church and Wellesley,Downtown Toronto
+455,2,2.0,0,M4Y,43.6695928,-79.3805797,3575.0,M4Y,Church and Wellesley,Downtown Toronto
+456,1,1.0,0,M4Y,43.6660964,-79.3873217,2400.0,M4Y,Church and Wellesley,Downtown Toronto
+457,1,1.0,1,M4Y,43.6618956,-79.3857479,2500.0,M4Y,Church and Wellesley,Downtown Toronto
+458,2,1.0,0,M4Y,43.6644404,-79.37498190000001,2100.0,M4Y,Church and Wellesley,Downtown Toronto
+459,1,1.0,0,M4Y,43.6676701,-79.389445,2410.0,M4Y,Church and Wellesley,Downtown Toronto
+460,2,1.0,0,M4Y,43.6676701,-79.389445,2915.0,M4Y,Church and Wellesley,Downtown Toronto
+461,1,1.0,0,M4Y,43.6676701,-79.389445,2035.0,M4Y,Church and Wellesley,Downtown Toronto
+462,2,2.0,0,M4Y,43.6652335,-79.3842932,3300.0,M4Y,Church and Wellesley,Downtown Toronto
+463,1,1.0,0,M4Y,43.6683764,-79.3806431,1750.0,M4Y,Church and Wellesley,Downtown Toronto
+464,2,2.0,0,M4Y,43.6651058,-79.37690090000001,3200.0,M4Y,Church and Wellesley,Downtown Toronto
+465,1,1.0,0,M4Y,43.666559899999996,-79.3791219,1795.0,M4Y,Church and Wellesley,Downtown Toronto
+466,1,1.0,0,M4Y,43.664843700000006,-79.3859297,2500.0,M4Y,Church and Wellesley,Downtown Toronto
+467,1,1.0,0,M4Y,43.6673847,-79.3826756,1568.0,M4Y,Church and Wellesley,Downtown Toronto
+468,1,1.0,0,M4Y,43.6616824,-79.3833791,2200.0,M4Y,Church and Wellesley,Downtown Toronto
+469,1,1.0,0,M4Y,43.6691531,-79.3873723,2050.0,M4Y,Church and Wellesley,Downtown Toronto
+470,1,1.0,0,M4Y,43.668799799999995,-79.3759678,1600.0,M4Y,Church and Wellesley,Downtown Toronto
+471,1,1.0,0,M4Y,43.66703,-79.37638620000001,2300.0,M4Y,Church and Wellesley,Downtown Toronto
+472,1,1.0,0,M4Y,43.6692283,-79.37994880000001,1480.0,M4Y,Church and Wellesley,Downtown Toronto
+473,1,1.0,0,M4Y,43.6655881,-79.383028,2100.0,M4Y,Church and Wellesley,Downtown Toronto
+474,1,1.0,0,M4Y,43.6655881,-79.383028,2100.0,M4Y,Church and Wellesley,Downtown Toronto
+475,1,1.0,0,M4Y,43.6676141,-79.38645890000001,2500.0,M4Y,Church and Wellesley,Downtown Toronto
+476,1,1.0,0,M4Y,43.6678174,-79.3831111,1750.0,M4Y,Church and Wellesley,Downtown Toronto
+477,2,1.0,0,M4Y,43.6678174,-79.3831111,2850.0,M4Y,Church and Wellesley,Downtown Toronto
+478,1,1.0,0,M4Y,43.669300899999996,-79.3841709,2400.0,M4Y,Church and Wellesley,Downtown Toronto
+479,1,1.0,0,M4Y,43.6652335,-79.3842932,99.0,M4Y,Church and Wellesley,Downtown Toronto
+480,1,1.0,0,M4Y,43.6687589,-79.3812685,1850.0,M4Y,Church and Wellesley,Downtown Toronto
+481,1,1.0,0,M4Y,43.6659283,-79.383465,2100.0,M4Y,Church and Wellesley,Downtown Toronto
+482,1,1.0,0,M4Y,43.6695928,-79.3805797,1850.0,M4Y,Church and Wellesley,Downtown Toronto
+483,2,2.0,0,M4Y,43.6695928,-79.3805797,3100.0,M4Y,Church and Wellesley,Downtown Toronto
+484,1,1.0,0,M4Y,43.6658263,-79.38399390000001,1860.0,M4Y,Church and Wellesley,Downtown Toronto
+485,1,1.0,0,M4Y,43.6683764,-79.3806431,1900.0,M4Y,Church and Wellesley,Downtown Toronto
+486,1,1.0,1,M4Y,43.6659283,-79.383465,2680.0,M4Y,Church and Wellesley,Downtown Toronto
+487,1,1.0,0,M4Y,43.6641794,-79.37550590000001,1700.0,M4Y,Church and Wellesley,Downtown Toronto
+488,2,2.0,0,M4Y,43.6657528,-79.3855792,3200.0,M4Y,Church and Wellesley,Downtown Toronto
+489,1,1.0,0,M4Y,43.6676141,-79.38645890000001,2500.0,M4Y,Church and Wellesley,Downtown Toronto
+490,2,1.0,0,M4Y,43.666751500000004,-79.37623549999999,2699.0,M4Y,Church and Wellesley,Downtown Toronto
+491,2,2.0,0,M4Y,43.665234000000005,-79.3839957,3300.0,M4Y,Church and Wellesley,Downtown Toronto
+492,1,1.0,0,M4Y,43.6676141,-79.38645890000001,2099.0,M4Y,Church and Wellesley,Downtown Toronto
+493,1,1.0,0,M4Y,43.6655881,-79.383028,2200.0,M4Y,Church and Wellesley,Downtown Toronto
+494,1,1.0,0,M4Y,43.6655881,-79.383028,1850.0,M4Y,Church and Wellesley,Downtown Toronto
+495,1,1.0,0,M4Y,43.663572200000004,-79.3819958,1725.0,M4Y,Church and Wellesley,Downtown Toronto
+496,1,1.0,0,M4Y,43.6701358,-79.37871080000001,1200.0,M4Y,Church and Wellesley,Downtown Toronto
+497,1,1.0,0,M4Y,43.6691213,-79.3847434,1500.0,M4Y,Church and Wellesley,Downtown Toronto
+498,1,1.0,0,M5A,43.6567414,-79.3699948,1799.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+499,1,1.0,0,M5A,43.6567414,-79.3699948,1899.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+500,1,1.0,0,M5A,43.6450775,-79.3643417,2450.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+501,1,1.0,0,M5A,43.65221029999999,-79.3707988,2200.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+502,2,2.0,0,M5A,43.6551919,-79.3539119,2999.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+503,1,1.0,1,M5A,43.65598789999999,-79.35887690000001,3200.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+504,1,1.0,0,M5A,43.653075,-79.37017900000001,2000.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+505,1,1.0,0,M5A,43.6450775,-79.3643417,2450.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+506,1,1.0,0,M5A,43.65221029999999,-79.3707988,2200.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+507,2,2.0,0,M5A,43.6551919,-79.3539119,2999.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+508,1,1.0,1,M5A,43.65598789999999,-79.35887690000001,3200.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+509,1,1.0,0,M5A,43.653075,-79.37017900000001,2000.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+510,1,1.0,0,M5A,43.653978,-79.3541341,1900.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+511,2,1.0,0,M5A,43.6519582,-79.3688547,2550.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+512,1,1.0,1,M5A,43.658981,-79.36291899999999,2099.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+513,1,1.0,1,M5A,43.652576399999994,-79.36706590000001,2350.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+514,1,1.0,1,M5A,43.652576399999994,-79.36706590000001,2350.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+515,1,1.0,0,M5A,43.6450775,-79.3643417,2450.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+516,1,1.0,0,M5A,43.65221029999999,-79.3707988,2200.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+517,2,2.0,0,M5A,43.6551919,-79.3539119,2999.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+518,1,1.0,1,M5A,43.65598789999999,-79.35887690000001,3200.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+519,1,1.0,0,M5A,43.653075,-79.37017900000001,2000.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+520,1,1.0,0,M5A,43.653978,-79.3541341,1900.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+521,2,1.0,0,M5A,43.6519582,-79.3688547,2550.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+522,1,1.0,1,M5A,43.658981,-79.36291899999999,2099.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+523,1,1.0,1,M5A,43.652576399999994,-79.36706590000001,2350.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+524,1,1.0,0,M5A,43.6551919,-79.3539119,2200.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+525,1,1.0,0,M5A,43.6527574,-79.3665108,2450.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+526,1,2.0,1,M5A,43.652330799999994,-79.3560136,2300.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+527,1,1.0,0,M5A,43.6583179,-79.36823570000001,1380.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+528,1,1.0,0,M5A,43.6565369,-79.3544975,2450.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+529,1,1.0,0,M5A,43.652058399999994,-79.37145749999999,2450.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+530,2,1.0,0,M5A,43.6594213,-79.36102509999999,1600.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+531,1,1.0,0,M5A,43.6527574,-79.3665108,2000.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+532,1,1.0,0,M5A,43.6527574,-79.3665108,2200.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+533,2,2.0,0,M5A,43.6551919,-79.3539119,3000.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+534,2,2.0,0,M5A,43.6594213,-79.36102509999999,2600.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+535,1,1.0,1,M5A,43.653890600000004,-79.36895109999999,2450.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+536,1,1.0,0,M5A,43.653978,-79.3541341,2050.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+537,1,2.0,0,M5A,43.650059999999996,-79.3578814,1500.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+538,1,1.0,1,M5A,43.6527574,-79.3665108,2200.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+539,1,1.0,0,M5A,43.6583179,-79.36823570000001,1380.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+540,2,2.0,0,M5A,43.6527574,-79.3665108,2775.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+541,1,1.0,0,M5A,43.652058399999994,-79.37145749999999,2500.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+542,2,2.0,0,M5A,43.6551919,-79.3539119,4000.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+543,2,2.0,0,M5A,43.6527574,-79.3665108,3500.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+544,1,1.0,0,M5A,43.6527574,-79.3665108,2050.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+545,2,2.0,0,M5A,43.6531574,-79.3686431,2950.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+546,1,1.0,1,M5A,43.652576399999994,-79.36706590000001,2450.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+547,2,2.0,0,M5A,43.6601526,-79.3648897,2800.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+548,1,1.0,0,M5A,43.6525889,-79.36771929999999,1500.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+549,1,1.0,0,M5A,43.6525889,-79.36771929999999,1600.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+550,1,1.0,1,M5A,43.652499299999995,-79.36696090000001,2300.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+551,1,1.0,1,M5A,43.6527574,-79.3665108,2300.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+552,1,2.0,1,M5A,43.653978,-79.3541341,2350.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+553,1,1.0,0,M5A,43.659217600000005,-79.35579609999999,1600.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+554,1,1.0,1,M5A,43.65739179999999,-79.37031490000001,1650.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+555,2,2.0,0,M5A,43.653978,-79.3541341,2800.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+556,1,2.0,1,M5A,43.6598236,-79.36272729999999,2475.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+557,2,2.0,0,M5A,43.6551919,-79.3539119,3000.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+558,1,1.0,0,M5A,43.6527574,-79.3665108,2050.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+559,1,1.0,0,M5A,43.658981,-79.36291899999999,2600.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+560,1,1.0,0,M5A,43.6527574,-79.3665108,2300.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+561,1,1.0,0,M5A,43.6527574,-79.3665108,2000.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+562,1,1.0,1,M5A,43.654788200000006,-79.3597037,1000.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+563,1,1.0,0,M5A,43.644775700000004,-79.3665735,4000.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+564,1,1.0,0,M5A,43.654228100000005,-79.36701540000001,700.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+565,2,2.0,0,M5A,43.6594213,-79.36102509999999,2600.0,M5A,"Harbourfront,Regent Park",Downtown Toronto
+566,2,2.0,0,M5E,43.64310510000001,-79.375906,3200.0,M5E,Berczy Park,Downtown Toronto
+567,2,2.0,0,M5E,43.64310510000001,-79.375906,3200.0,M5E,Berczy Park,Downtown Toronto
+568,2,2.0,0,M5E,43.64310510000001,-79.375906,3200.0,M5E,Berczy Park,Downtown Toronto
+569,1,1.0,1,M5E,43.6458091,-79.3756819,3000.0,M5E,Berczy Park,Downtown Toronto
+570,2,2.0,0,M5E,43.6458091,-79.3756819,3400.0,M5E,Berczy Park,Downtown Toronto
+571,2,2.0,0,M5E,43.64310510000001,-79.375906,3200.0,M5E,Berczy Park,Downtown Toronto
+572,1,1.0,0,M5E,43.6485726,-79.37627540000001,1900.0,M5E,Berczy Park,Downtown Toronto
+573,2,2.0,0,M5E,43.64310510000001,-79.375906,3200.0,M5E,Berczy Park,Downtown Toronto
+574,1,1.0,1,M5E,43.6458091,-79.3756819,3000.0,M5E,Berczy Park,Downtown Toronto
+575,2,2.0,0,M5E,43.6458091,-79.3756819,3400.0,M5E,Berczy Park,Downtown Toronto
+576,1,1.0,0,M5E,43.6485726,-79.37627540000001,1900.0,M5E,Berczy Park,Downtown Toronto
+577,1,1.0,0,M5E,43.6441737,-79.3894209,2500.0,M5E,Berczy Park,Downtown Toronto
+578,2,2.0,0,M5E,43.64310510000001,-79.375906,3200.0,M5E,Berczy Park,Downtown Toronto
+579,1,1.0,1,M5E,43.6458091,-79.3756819,3000.0,M5E,Berczy Park,Downtown Toronto
+580,2,2.0,0,M5E,43.6458091,-79.3756819,3400.0,M5E,Berczy Park,Downtown Toronto
+581,1,1.0,0,M5E,43.6485726,-79.37627540000001,1900.0,M5E,Berczy Park,Downtown Toronto
+582,1,1.0,0,M5E,43.6441737,-79.3894209,2500.0,M5E,Berczy Park,Downtown Toronto
+583,1,1.0,0,M5E,43.6493806,-79.37453190000001,2200.0,M5E,Berczy Park,Downtown Toronto
+584,1,1.0,0,M5E,43.6485726,-79.37627540000001,1850.0,M5E,Berczy Park,Downtown Toronto
+585,2,2.0,0,M5E,43.644408399999996,-79.37656170000001,3000.0,M5E,Berczy Park,Downtown Toronto
+586,2,2.0,0,M5E,43.64310510000001,-79.375906,3200.0,M5E,Berczy Park,Downtown Toronto
+587,1,1.0,1,M5E,43.6458091,-79.3756819,2600.0,M5E,Berczy Park,Downtown Toronto
+588,1,1.0,0,M5E,43.6460983,-79.37605490000001,2250.0,M5E,Berczy Park,Downtown Toronto
+589,2,2.0,0,M5E,43.6458091,-79.3756819,4000.0,M5E,Berczy Park,Downtown Toronto
+590,1,1.0,0,M5E,43.6413595,-79.37251450000001,2100.0,M5E,Berczy Park,Downtown Toronto
+591,1,1.0,0,M5E,43.6460983,-79.37605490000001,2250.0,M5E,Berczy Park,Downtown Toronto
+592,1,1.0,1,M5E,43.6460983,-79.37605490000001,2450.0,M5E,Berczy Park,Downtown Toronto
+593,1,1.0,0,M5E,43.6458091,-79.3756819,2650.0,M5E,Berczy Park,Downtown Toronto
+594,1,1.0,0,M5E,43.64310510000001,-79.375906,2250.0,M5E,Berczy Park,Downtown Toronto
+595,2,2.0,0,M5E,43.644408399999996,-79.37656170000001,2500.0,M5E,Berczy Park,Downtown Toronto
+596,1,1.0,0,M5E,43.644408399999996,-79.37656170000001,2200.0,M5E,Berczy Park,Downtown Toronto
+597,1,1.0,1,M5E,43.6485726,-79.37627540000001,2450.0,M5E,Berczy Park,Downtown Toronto
+598,1,1.0,0,M5E,43.6494165,-79.3745473,1900.0,M5E,Berczy Park,Downtown Toronto
+599,2,2.0,0,M5E,43.6459244,-79.37532990000001,1500.0,M5E,Berczy Park,Downtown Toronto
+600,2,2.0,0,M5E,43.644408399999996,-79.37656170000001,3000.0,M5E,Berczy Park,Downtown Toronto
+601,2,2.0,0,M5E,43.641620700000004,-79.3717276,3250.0,M5E,Berczy Park,Downtown Toronto
+602,2,1.5,0,M5E,43.6460983,-79.37605490000001,2600.0,M5E,Berczy Park,Downtown Toronto
+603,1,1.0,0,M5E,43.641620700000004,-79.3717276,2700.0,M5E,Berczy Park,Downtown Toronto
+604,1,1.0,0,M4K,43.6893623,-79.35284809999999,1825.0,M4K,"The Danforth West,Riverdale",East Toronto
+605,2,1.0,0,M4K,43.6893623,-79.35284809999999,2245.0,M4K,"The Danforth West,Riverdale",East Toronto
+606,1,1.0,1,M5S,43.661927,-79.3865112,2250.0,M5S,"Harbord,University of Toronto",Downtown Toronto
+607,1,1.0,1,M5S,43.661927,-79.3865112,2250.0,M5S,"Harbord,University of Toronto",Downtown Toronto
+608,1,1.0,1,M5S,43.6629771,-79.386217,2200.0,M5S,"Harbord,University of Toronto",Downtown Toronto
+609,1,1.0,0,M5S,43.6665804,-79.40093940000001,1200.0,M5S,"Harbord,University of Toronto",Downtown Toronto
+610,1,1.0,1,M5S,43.6629771,-79.386217,2200.0,M5S,"Harbord,University of Toronto",Downtown Toronto
+611,1,1.0,1,M5S,43.6653563,-79.387999,2300.0,M5S,"Harbord,University of Toronto",Downtown Toronto
+612,1,1.0,0,M5S,43.6616564,-79.4099423,1700.0,M5S,"Harbord,University of Toronto",Downtown Toronto
+613,2,1.0,0,M5S,43.6672109,-79.3891532,3099.0,M5S,"Harbord,University of Toronto",Downtown Toronto
+614,1,1.0,0,M5S,43.6647727,-79.38698670000001,2000.0,M5S,"Harbord,University of Toronto",Downtown Toronto
+615,2,2.0,0,M5S,43.6669805,-79.38888890000001,3500.0,M5S,"Harbord,University of Toronto",Downtown Toronto
+616,1,1.0,0,M5S,43.6626956,-79.4000493,1000.0,M5S,"Harbord,University of Toronto",Downtown Toronto
+617,2,1.0,0,M5S,43.6582784,-79.40843659999999,600.0,M5S,"Harbord,University of Toronto",Downtown Toronto
+618,1,1.0,0,M5S,43.6655297,-79.39547540000001,1000.0,M5S,"Harbord,University of Toronto",Downtown Toronto
+619,2,2.0,0,M5H,43.6505597,-79.38207220000001,2800.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+620,1,1.0,0,M5H,43.6505597,-79.38207220000001,1900.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+621,1,1.0,0,M5H,43.6505597,-79.38207220000001,1900.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+622,1,1.0,1,M5H,43.64738010000001,-79.3872741,2400.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+623,2,2.0,0,M5H,43.6504185,-79.38179079999999,3000.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+624,2,2.0,0,M5H,43.6505597,-79.38207220000001,2800.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+625,1,1.0,0,M5H,43.6505597,-79.38207220000001,1900.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+626,1,1.0,0,M5H,43.6505597,-79.38207220000001,1900.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+627,1,1.0,1,M5H,43.64738010000001,-79.3872741,2400.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+628,2,2.0,0,M5H,43.6504185,-79.38179079999999,3000.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+629,1,1.0,1,M5H,43.64894,-79.378086,2950.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+630,2,2.0,0,M5H,43.6505597,-79.38207220000001,2800.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+631,1,1.0,0,M5H,43.6505597,-79.38207220000001,1900.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+632,1,1.0,0,M5H,43.6505597,-79.38207220000001,1900.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+633,1,1.0,1,M5H,43.64738010000001,-79.3872741,2400.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+634,1,1.0,1,M5H,43.64738010000001,-79.3872741,2400.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+635,1,1.0,0,M5H,43.648841100000006,-79.3779693,2200.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+636,1,2.0,0,M5H,43.6505597,-79.38207220000001,2800.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+637,1,1.0,0,M5H,43.6505597,-79.38207220000001,1900.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+638,1,1.0,0,M5H,43.648742,-79.3868108,2400.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+639,1,1.0,0,M5H,43.6488576,-79.3781453,2750.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+640,2,2.0,0,M5H,43.6505597,-79.38207220000001,2800.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+641,1,1.0,0,M5H,43.6505597,-79.38207220000001,2050.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+642,1,1.0,0,M5H,43.6488576,-79.3781453,2350.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+643,1,1.0,0,M5H,43.64955689999999,-79.38722829999999,2200.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+644,2,2.0,0,M5H,43.650091700000004,-79.3873738,3600.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+645,2,2.0,0,M5H,43.6505597,-79.38207220000001,3000.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+646,1,1.0,0,M5H,43.648953000000006,-79.3857683,4000.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+647,2,1.0,0,M5H,43.6525485,-79.38351180000001,2200.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+648,1,1.0,1,M5H,43.6488576,-79.3781453,2750.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+649,1,1.0,0,M5H,43.64894,-79.378086,2390.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+650,1,1.0,0,M5H,43.648742299999995,-79.37849720000001,1600.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+651,1,1.0,0,M5H,43.6505597,-79.38207220000001,1950.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+652,1,1.0,0,M5H,43.650091700000004,-79.3873738,3200.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+653,1,1.0,0,M5H,43.6505597,-79.38207220000001,2200.0,M5H,"Adelaide,King,Richmond",Downtown Toronto
+654,1,1.0,0,M5G,43.6541547,-79.3852113,550.0,M5G,Central Bay Street,Downtown Toronto
+655,1,1.0,0,M5G,43.65506920000001,-79.38747049999999,1200.0,M5G,Central Bay Street,Downtown Toronto
+656,1,1.0,0,M5G,43.6541547,-79.3852113,550.0,M5G,Central Bay Street,Downtown Toronto
+657,1,1.0,0,M5G,43.65506920000001,-79.38747049999999,1200.0,M5G,Central Bay Street,Downtown Toronto
+658,1,1.0,0,M5G,43.659329,-79.3826747,2350.0,M5G,Central Bay Street,Downtown Toronto
+659,1,1.0,0,M5G,43.6541547,-79.3852113,550.0,M5G,Central Bay Street,Downtown Toronto
+660,1,1.0,0,M5G,43.65506920000001,-79.38747049999999,1200.0,M5G,Central Bay Street,Downtown Toronto
+661,1,1.0,0,M5G,43.659329,-79.3826747,2350.0,M5G,Central Bay Street,Downtown Toronto
+662,2,2.0,0,M5G,43.660110700000004,-79.38588709999999,2950.0,M5G,Central Bay Street,Downtown Toronto
+663,1,1.0,0,M5G,43.6608355,-79.3858556,750.0,M5G,Central Bay Street,Downtown Toronto
+664,1,1.5,0,M5G,43.6550554,-79.3847211,2800.0,M5G,Central Bay Street,Downtown Toronto
+665,1,1.0,1,M5G,43.6568825,-79.3835616,2000.0,M5G,Central Bay Street,Downtown Toronto
+666,1,1.0,0,M5G,43.6575221,-79.3899928,1750.0,M5G,Central Bay Street,Downtown Toronto
+667,1,1.0,0,M5G,43.6539487,-79.3885701,1900.0,M5G,Central Bay Street,Downtown Toronto
+668,1,1.0,0,M5G,43.6515926,-79.3875585,1700.0,M5G,Central Bay Street,Downtown Toronto
+669,2,2.0,0,M5G,43.658896999999996,-79.383798,2950.0,M5G,Central Bay Street,Downtown Toronto
+670,2,2.0,0,M5G,43.659329,-79.3826747,2100.0,M5G,Central Bay Street,Downtown Toronto
+671,2,2.0,0,M5G,43.6601367,-79.3858692,2950.0,M5G,Central Bay Street,Downtown Toronto
+672,2,1.5,0,M5G,43.6568825,-79.3835616,3000.0,M5G,Central Bay Street,Downtown Toronto
+673,1,1.0,0,M5G,43.6565308,-79.38600490000002,1550.0,M5G,Central Bay Street,Downtown Toronto
+674,2,2.0,0,M5G,43.6601367,-79.3858692,2950.0,M5G,Central Bay Street,Downtown Toronto
+675,1,1.0,0,M5G,43.653885700000004,-79.3880868,2100.0,M5G,Central Bay Street,Downtown Toronto
+676,1,1.0,0,M5G,43.6575994,-79.38364,2300.0,M5G,Central Bay Street,Downtown Toronto
+677,1,1.0,0,M5G,43.6539487,-79.3885701,2100.0,M5G,Central Bay Street,Downtown Toronto
+678,1,1.0,0,M5G,43.6547234,-79.3814004,700.0,M5G,Central Bay Street,Downtown Toronto
+679,1,1.0,0,M5G,43.6599624,-79.3850953,1600.0,M5G,Central Bay Street,Downtown Toronto
+680,1,1.0,0,M5G,43.658974,-79.3840397,2000.0,M5G,Central Bay Street,Downtown Toronto
+681,1,1.0,0,M4L,43.666988700000005,-79.3146912,1100.0,M4L,"The Beaches West,India Bazaar",East Toronto
+682,1,1.0,0,M4L,43.666988700000005,-79.3146912,1100.0,M4L,"The Beaches West,India Bazaar",East Toronto
+683,1,1.0,0,M4L,43.666988700000005,-79.3146912,1100.0,M4L,"The Beaches West,India Bazaar",East Toronto
+684,1,1.0,0,M4V,43.6527574,-79.3665108,2480.0,M4V,"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West",Central Toronto
+685,1,1.0,0,M4V,43.6448637,-79.3990598,2250.0,M4V,"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West",Central Toronto
+686,1,1.0,0,M4V,43.6527574,-79.3665108,2480.0,M4V,"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West",Central Toronto
+687,1,1.0,0,M4V,43.6448637,-79.3990598,2250.0,M4V,"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West",Central Toronto
+688,1,1.0,0,M4V,43.688897100000005,-79.41198359999999,1617.0,M4V,"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West",Central Toronto
+689,1,1.0,0,M4V,43.6527574,-79.3665108,2480.0,M4V,"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West",Central Toronto
+690,1,1.0,0,M4V,43.6448637,-79.3990598,2250.0,M4V,"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West",Central Toronto
+691,1,1.0,0,M4V,43.688897100000005,-79.41198359999999,1617.0,M4V,"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West",Central Toronto
+692,1,1.0,0,M4V,43.6867088,-79.3992577,1950.0,M4V,"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West",Central Toronto
+693,1,1.0,0,M4V,43.686511200000005,-79.39952159999999,150.0,M4V,"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West",Central Toronto
+694,1,1.0,1,M6H,43.6739944,-79.44168499999999,1650.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+695,1,1.0,1,M6H,43.6739944,-79.44168499999999,1650.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+696,1,1.0,1,M6H,43.6739944,-79.44168499999999,1650.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+697,1,1.0,0,M6H,43.65967929999999,-79.4292906,1857.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+698,1,1.0,0,M6H,43.65967929999999,-79.4292906,1757.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+699,1,1.0,0,M6H,43.65967929999999,-79.4292906,1597.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+700,1,1.0,0,M6H,43.6599474,-79.4308197,1857.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+701,1,1.0,0,M6H,43.6589956,-79.4296933,1757.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+702,1,1.0,0,M6H,43.6589956,-79.4296933,1717.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+703,1,1.0,0,M6H,43.6589956,-79.4296933,1597.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+704,2,1.0,0,M6H,43.665271000000004,-79.4476835,2600.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+705,3,3.0,0,M6H,43.673016700000005,-79.4399334,2500.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+706,1,1.0,0,M6H,43.662091,-79.4332913,935.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+707,1,1.0,0,M6H,43.662091,-79.4332913,935.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+708,1,1.0,0,M6H,43.6672287,-79.4375116,1600.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+709,1,1.0,0,M6H,43.66945689999999,-79.432457,1509.0,M6H,"Dovercourt Village,Dufferin",West Toronto
+710,2,1.0,0,M6J,43.6415686,-79.42460279999999,2889.0,M6J,"Little Portugal,Trinity",West Toronto
+711,1,1.0,0,M6J,43.65229779999999,-79.4069977,1300.0,M6J,"Little Portugal,Trinity",West Toronto
+712,2,1.0,0,M6J,43.6415686,-79.42460279999999,2889.0,M6J,"Little Portugal,Trinity",West Toronto
+713,1,1.0,0,M6J,43.65229779999999,-79.4069977,1300.0,M6J,"Little Portugal,Trinity",West Toronto
+714,3,1.5,0,M6J,43.6411088,-79.419448,3450.0,M6J,"Little Portugal,Trinity",West Toronto
+715,2,1.0,0,M6J,43.6415686,-79.42460279999999,2889.0,M6J,"Little Portugal,Trinity",West Toronto
+716,1,1.0,0,M6J,43.65229779999999,-79.4069977,1300.0,M6J,"Little Portugal,Trinity",West Toronto
+717,3,1.5,0,M6J,43.6411088,-79.419448,3450.0,M6J,"Little Portugal,Trinity",West Toronto
+718,2,2.0,0,M6J,43.6413402,-79.41813940000002,3200.0,M6J,"Little Portugal,Trinity",West Toronto
+719,1,1.0,0,M6J,43.6428951,-79.4281018,2000.0,M6J,"Little Portugal,Trinity",West Toronto
+720,2,1.0,0,M6J,43.6420242,-79.42305970000001,2800.0,M6J,"Little Portugal,Trinity",West Toronto
+721,2,1.0,0,M6J,43.6415328,-79.4240715,2400.0,M6J,"Little Portugal,Trinity",West Toronto
+722,1,1.0,1,M6J,43.6423708,-79.42419050000001,2000.0,M6J,"Little Portugal,Trinity",West Toronto
+723,1,1.0,1,M6J,43.6423708,-79.42419050000001,2000.0,M6J,"Little Portugal,Trinity",West Toronto
+724,2,2.0,0,M6J,43.6437964,-79.4284926,2000.0,M6J,"Little Portugal,Trinity",West Toronto
+725,1,1.0,0,M6J,43.6428951,-79.4281018,2000.0,M6J,"Little Portugal,Trinity",West Toronto
+726,1,1.0,0,M6J,43.6423708,-79.42419050000001,2000.0,M6J,"Little Portugal,Trinity",West Toronto
+727,2,2.0,0,M6J,43.6423708,-79.42419050000001,2000.0,M6J,"Little Portugal,Trinity",West Toronto
+728,1,1.0,0,M6J,43.6428951,-79.4281018,2000.0,M6J,"Little Portugal,Trinity",West Toronto
+729,1,1.0,0,M6J,43.641596500000006,-79.4234431,850.0,M6J,"Little Portugal,Trinity",West Toronto
+730,1,1.0,1,M4M,43.661062799999996,-79.35154150000001,2500.0,M4M,Studio District,East Toronto
+731,1,1.0,0,M4M,43.661062799999996,-79.35154150000001,2500.0,M4M,Studio District,East Toronto
+732,1,1.0,0,M4M,43.665172999999996,-79.3410685,2100.0,M4M,Studio District,East Toronto
+733,1,1.0,0,M5X,43.6484292,-79.3822802,1300.0,M5X,"First Canadian Place,Underground city",Downtown Toronto
+734,1,1.0,0,M5X,43.6486599,-79.38157640000001,900.0,M5X,"First Canadian Place,Underground city",Downtown Toronto
+735,1,1.0,0,M4W,43.671081799999996,-79.38074350000001,1970.0,M4W,Rosedale,Downtown Toronto
+736,1,1.0,0,M4W,43.671081799999996,-79.38074350000001,1650.0,M4W,Rosedale,Downtown Toronto
+737,1,1.0,0,M4W,43.6721931,-79.38786640000001,2000.0,M4W,Rosedale,Downtown Toronto
+738,1,1.0,0,M4W,43.670811,-79.3852395,1699.0,M4W,Rosedale,Downtown Toronto
+739,1,1.0,0,M4W,43.679042700000004,-79.37653459999999,2350.0,M4W,Rosedale,Downtown Toronto
+740,1,1.0,0,M5R,43.670320200000006,-79.39443320000001,1900.0,M5R,"The Annex,North Midtown,Yorkville",Central Toronto
+741,1,1.0,0,M5R,43.672734999999996,-79.4023802,1900.0,M5R,"The Annex,North Midtown,Yorkville",Central Toronto
+742,1,1.0,0,M5R,43.6700064,-79.3976944,1760.0,M5R,"The Annex,North Midtown,Yorkville",Central Toronto
+743,1,1.0,0,M5R,43.675507200000006,-79.41500090000001,1100.0,M5R,"The Annex,North Midtown,Yorkville",Central Toronto
+744,1,1.0,0,M5R,43.6709659,-79.3905934,3620.0,M5R,"The Annex,North Midtown,Yorkville",Central Toronto
+745,1,1.0,0,M5R,43.673962200000005,-79.40163249999999,1800.0,M5R,"The Annex,North Midtown,Yorkville",Central Toronto
+746,2,1.0,0,M5R,43.6757718,-79.41148309999998,1500.0,M5R,"The Annex,North Midtown,Yorkville",Central Toronto
+747,2,1.0,0,M5R,43.6805461,-79.4175732,2100.0,M5R,"The Annex,North Midtown,Yorkville",Central Toronto
+748,1,1.0,0,M6S,43.661108299999995,-79.4987507,1100.0,M6S,"Runnymede,Swansea",West Toronto
+749,1,1.0,0,M6G,43.6667107,-79.40435079999999,1500.0,M6G,Christie,Downtown Toronto
+750,3,2.0,0,M6G,43.6723273,-79.4287263,4625.0,M6G,Christie,Downtown Toronto
+751,2,1.0,0,M6G,43.6661636,-79.4276187,2400.0,M6G,Christie,Downtown Toronto
+752,1,1.0,1,M6R,43.6520027,-79.4492618,2250.0,M6R,"Parkdale,Roncesvalles",West Toronto
+753,1,1.0,0,M4E,43.680601700000004,-79.2893327,1600.0,M4E,The Beaches,East Toronto
+754,1,1.0,0,M4E,43.6777793,-79.28619309999999,1300.0,M4E,The Beaches,East Toronto
+755,3,3.0,0,M4R,43.707319700000006,-79.4002252,1300.0,M4R,North Toronto West,Central Toronto
+756,1,1.0,0,M5C,43.652812,-79.3733062,1975.0,M5C,St. James Town,Downtown Toronto
+757,1,1.0,0,M5C,43.6521506,-79.3754775,2300.0,M5C,St. James Town,Downtown Toronto
+758,2,2.0,0,M5C,43.6490882,-79.3762537,3400.0,M5C,St. James Town,Downtown Toronto
+759,1,1.0,0,M5C,43.6535202,-79.37377020000001,2100.0,M5C,St. James Town,Downtown Toronto
+760,1,1.0,0,M5C,43.650324100000006,-79.3779693,1400.0,M5C,St. James Town,Downtown Toronto
+761,1,1.0,1,M5C,43.649066499999996,-79.37693,2500.0,M5C,St. James Town,Downtown Toronto
+762,1,1.0,0,M4S,43.69840429999999,-79.3948245,2800.0,M4S,Davisville,Central Toronto
+763,1,1.0,0,M5N,43.717321000000005,-79.42485,900.0,M5N,Roselawn,Central Toronto

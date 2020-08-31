@@ -1,0 +1,39 @@
+,Postal Code,Latitude,Longitude,Borough,Neighborhood,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,M4E,43.67635739999999,-79.2930312,East Toronto,The Beaches,0,Pub,Coffee Shop,Pizza Place,Breakfast Spot,Beach,Japanese Restaurant,Bar,Sandwich Place,Salon / Barbershop,Burger Joint
+1,M4K,43.6795571,-79.352188,East Toronto,"The Danforth West,Riverdale",0,Greek Restaurant,Coffee Shop,Café,Pub,Ice Cream Shop,Fast Food Restaurant,Pizza Place,Yoga Studio,Discount Store,Sandwich Place
+2,M4L,43.6689985,-79.31557159999998,East Toronto,"The Beaches West,India Bazaar",0,Indian Restaurant,Coffee Shop,Café,Beach,Light Rail Station,Fast Food Restaurant,Restaurant,Bakery,Burrito Place,Sandwich Place
+3,M4M,43.6595255,-79.340923,East Toronto,Studio District,1,Coffee Shop,Bar,Café,American Restaurant,Bakery,Vietnamese Restaurant,Italian Restaurant,Diner,Sandwich Place,Brewery
+4,M4N,43.7280205,-79.3887901,Central Toronto,Lawrence Park,2,College Quad,Gym / Fitness Center,College Gym,Coffee Shop,Park,Café,Trail,Bookstore,Gym Pool,Gym
+5,M4P,43.7127511,-79.3901975,Central Toronto,Davisville North,0,Coffee Shop,Fast Food Restaurant,Italian Restaurant,Café,Gym,Restaurant,Sushi Restaurant,Pizza Place,Dessert Shop,Yoga Studio
+6,M4R,43.7153834,-79.40567840000001,Central Toronto,North Toronto West,1,Italian Restaurant,Coffee Shop,Sporting Goods Shop,Mexican Restaurant,Restaurant,Diner,Café,Skating Rink,Sushi Restaurant,Baseball Field
+7,M4S,43.7043244,-79.3887901,Central Toronto,Davisville,0,Coffee Shop,Italian Restaurant,Sushi Restaurant,Café,Pizza Place,Gym,Indian Restaurant,Fast Food Restaurant,Restaurant,Dessert Shop
+8,M4T,43.6895743,-79.38315990000001,Central Toronto,"Moore Park,Summerhill East",0,Coffee Shop,Italian Restaurant,Park,Grocery Store,Bagel Shop,Café,Sandwich Place,Pub,Gym,Pizza Place
+9,M4V,43.68641229999999,-79.4000493,Central Toronto,"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West",0,Coffee Shop,Park,Sushi Restaurant,Gym / Fitness Center,Italian Restaurant,Grocery Store,Pizza Place,Pub,Spa,Convenience Store
+10,M4W,43.6795626,-79.37752940000001,Downtown Toronto,Rosedale,4,Coffee Shop,Park,Grocery Store,Bank,Hostel,Athletics & Sports,Playground,Convenience Store,Office,Sandwich Place
+11,M4X,43.667967,-79.3676753,Downtown Toronto,"Cabbagetown,St. James Town",1,Park,Diner,Gastropub,Japanese Restaurant,Café,Coffee Shop,Taiwanese Restaurant,Dance Studio,Jewelry Store,Deli / Bodega
+12,M4Y,43.6658599,-79.38315990000001,Downtown Toronto,Church and Wellesley,1,Coffee Shop,Japanese Restaurant,Gay Bar,Sushi Restaurant,Restaurant,Café,Park,Ramen Restaurant,Bubble Tea Shop,Grocery Store
+13,M5A,43.6542599,-79.3606359,Downtown Toronto,"Harbourfront,Regent Park",0,Coffee Shop,Café,Italian Restaurant,Theater,Restaurant,Park,Breakfast Spot,Bakery,Diner,Pub
+14,M5B,43.6571618,-79.37893709999999,Downtown Toronto,"Ryerson,Garden District",1,Coffee Shop,Middle Eastern Restaurant,Café,Italian Restaurant,Clothing Store,Tea Room,Ramen Restaurant,Diner,Gastropub,Restaurant
+15,M5C,43.6514939,-79.3754179,Downtown Toronto,St. James Town,1,Coffee Shop,Café,Restaurant,Hotel,Bakery,Cosmetics Shop,Italian Restaurant,Seafood Restaurant,American Restaurant,Gastropub
+16,M5E,43.644770799999996,-79.3733064,Downtown Toronto,Berczy Park,1,Coffee Shop,Café,Restaurant,Hotel,Japanese Restaurant,Bakery,Beer Bar,Park,Cocktail Bar,Gastropub
+17,M5G,43.6579524,-79.3873826,Downtown Toronto,Central Bay Street,1,Coffee Shop,Café,Italian Restaurant,Bubble Tea Shop,Clothing Store,Ramen Restaurant,Japanese Restaurant,Bar,Park,Pizza Place
+18,M5H,43.65057120000001,-79.3845675,Downtown Toronto,"Adelaide,King,Richmond",1,Café,Hotel,Coffee Shop,American Restaurant,Theater,Pizza Place,Steakhouse,Sushi Restaurant,Gastropub,Japanese Restaurant
+19,M5J,43.6408157,-79.38175229999999,Downtown Toronto,"Harbourfront East,Toronto Islands,Union Station",1,Coffee Shop,Café,Hotel,Italian Restaurant,Aquarium,Brewery,Park,Scenic Lookout,Restaurant,Fried Chicken Joint
+20,M5K,43.6471768,-79.38157640000001,Downtown Toronto,"Design Exchange,Toronto Dominion Centre",1,Café,Hotel,Coffee Shop,Steakhouse,Concert Hall,Italian Restaurant,American Restaurant,Restaurant,Theater,Gastropub
+21,M5L,43.6481985,-79.37981690000001,Downtown Toronto,"Commerce Court,Victoria Hotel",1,Coffee Shop,Hotel,Café,Steakhouse,Beer Bar,Japanese Restaurant,Concert Hall,American Restaurant,Restaurant,Cocktail Bar
+22,M5N,43.7116948,-79.41693559999999,Central Toronto,Roselawn,0,Sushi Restaurant,Coffee Shop,Bank,Pharmacy,Italian Restaurant,Japanese Restaurant,Asian Restaurant,Café,Clothing Store,Bagel Shop
+23,M5P,43.6969476,-79.41130720000001,Central Toronto,"Forest Hill North,Forest Hill West",0,Café,Park,Coffee Shop,Gym / Fitness Center,Italian Restaurant,Bakery,Bank,Japanese Restaurant,Sushi Restaurant,Trail
+24,M5R,43.6727097,-79.40567840000001,Central Toronto,"The Annex,North Midtown,Yorkville",1,Café,Vegetarian / Vegan Restaurant,Italian Restaurant,Restaurant,Coffee Shop,Bakery,Pizza Place,Grocery Store,Pub,Museum
+25,M5S,43.6626956,-79.4000493,Downtown Toronto,"Harbord,University of Toronto",1,Café,Vegetarian / Vegan Restaurant,Bakery,Bar,Restaurant,Mexican Restaurant,Bookstore,Coffee Shop,Pizza Place,Dessert Shop
+26,M5T,43.6532057,-79.4000493,Downtown Toronto,"Chinatown,Grange Park,Kensington Market",1,Café,Vegetarian / Vegan Restaurant,Bar,Bakery,Coffee Shop,Vietnamese Restaurant,Mexican Restaurant,Yoga Studio,Ice Cream Shop,Dumpling Restaurant
+27,M5V,43.6289467,-79.3944199,Downtown Toronto,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",3,Coffee Shop,Harbor / Marina,Café,Garden,Track,Scenic Lookout,Sculpture Garden,Dog Run,Airport,Airport Lounge
+28,M5W,43.6464352,-79.37484599999999,Downtown Toronto,Stn A PO Boxes 25 The Esplanade,1,Coffee Shop,Café,Restaurant,Hotel,Japanese Restaurant,Cocktail Bar,Breakfast Spot,Beer Bar,Gastropub,Park
+29,M5X,43.6484292,-79.3822802,Downtown Toronto,"First Canadian Place,Underground city",1,Café,Hotel,Coffee Shop,Steakhouse,Restaurant,Italian Restaurant,American Restaurant,Theater,Japanese Restaurant,Asian Restaurant
+30,M6G,43.669542,-79.4225637,Downtown Toronto,Christie,1,Korean Restaurant,Café,Coffee Shop,Grocery Store,Ice Cream Shop,Cocktail Bar,Indian Restaurant,Comedy Club,Sandwich Place,Park
+31,M6H,43.66900510000001,-79.4422593,West Toronto,"Dovercourt Village,Dufferin",0,Café,Park,Coffee Shop,Bar,Pharmacy,Brewery,Supermarket,Sushi Restaurant,Portuguese Restaurant,Bakery
+32,M6J,43.647926700000006,-79.4197497,West Toronto,"Little Portugal,Trinity",1,Bar,Café,Bakery,Coffee Shop,Cocktail Bar,Pizza Place,Restaurant,Asian Restaurant,Vegetarian / Vegan Restaurant,Italian Restaurant
+33,M6K,43.6368472,-79.42819140000002,West Toronto,"Brockton,Exhibition Place,Parkdale Village",1,Coffee Shop,Café,Restaurant,Bar,Furniture / Home Store,Tibetan Restaurant,Bakery,Gift Shop,Park,Caribbean Restaurant
+34,M6P,43.6616083,-79.46476329999999,West Toronto,"High Park,The Junction South",0,Bar,Café,Coffee Shop,Italian Restaurant,Convenience Store,Sushi Restaurant,Thai Restaurant,Breakfast Spot,Food Truck,Metro Station
+35,M6R,43.6489597,-79.456325,West Toronto,"Parkdale,Roncesvalles",0,Bar,Sushi Restaurant,Coffee Shop,Breakfast Spot,Café,Pizza Place,Bakery,Sandwich Place,Thai Restaurant,Eastern European Restaurant
+36,M6S,43.6515706,-79.4844499,West Toronto,"Runnymede,Swansea",0,Café,Coffee Shop,Bakery,Pizza Place,Italian Restaurant,Sushi Restaurant,Gym,Falafel Restaurant,Pub,Gastropub
+37,M7Y,43.6627439,-79.321558,East Toronto,Business Reply Mail Processing Centre 969 Eastern,0,Park,Coffee Shop,Brewery,Pizza Place,Italian Restaurant,Sushi Restaurant,Pet Store,New American Restaurant,Pub,French Restaurant
